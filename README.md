@@ -3,6 +3,7 @@ This is an official PyTorch implementation of **"Zero-shot Skeleton-based Action
 via Mutual Information Estimation and Maximization" in ACMMM 2023**.
 (Code comming soon)
 
+[[Paper]](https://arxiv.org/abs/2308.03950)
 # Framework
 ![SMIE](https://github.com/YujieOuO/SMIE/blob/main/images/pipeline.png)
 
