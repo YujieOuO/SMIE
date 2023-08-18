@@ -42,22 +42,22 @@ Using [ChatGPT](https://chat.openai.com/) to expand each action label name into 
 The total label descriptions can be found in [folder](https://github.com/YujieOuO/SMIE/tree/main/descriptions).
 
 ## Different Experiment Settings
-Our SMIE employs two experimental setting.
+Our SMIE employs two experiment setting.
 * SynSE Experiment Setting: two datasets are used, split_5 and split_12 on NTU60, and split_10 and split_24 on NTU120. The visual feature extractor is Shift-GCN. 
 * Optimized Experiment Setting: three datasets are used (NTU-60, NTU-120, PKU-MMD), and each dataset have three random splits. The visual feature extractor is classical ST-GCN to minimize the impact of the feature extractor and focus on the connection model.
 
-### SynSE Experimental Setting
+### SynSE Experiment Setting
 To compared with the SOTA method [SynSE](https://github.com/skelemoa/synse-zsl), 
-we first apply their zero-shot class splits for SynSE Experimental Setting. You can download the visual features from their repo, 
+we first apply their zero-shot class splits for SynSE Experiment Setting. You can download the visual features from their repo, 
 or download from our BaiduYun link: [SOTA visual features](https://pan.baidu.com/s/1Y0nTRZ19UqnXTBJeAFPXeg). Code:smie.
 
 Example for training and testing on NTU-60 split_5 data.
 ```bash
-# SynSE Experimental Setting
+# SynSE Experiment Setting
 $ python procedure.py with 'train_mode="sota"'
 ```
 You can also choose different split id of [config.py](https://github.com/YujieOuO/SMIE/blob/main/config.py) (sota compare part).  
-### Optimized Experimental Setting
+### Optimized Experiment Setting
 
 #### Seen and Unseen Classes Splits
 For different class splits, you can change the split_id in [split.py](https://github.com/YujieOuO/SMIE/tree/main/split.py).
@@ -71,7 +71,7 @@ $ python split.py
 Example for training and testing on NTU-60 split_1.  
 You can change some settings of [config.py](https://github.com/YujieOuO/SMIE/blob/main/config.py).  
 ```bash
-# Optimized Experimental Setting
+# Optimized Experiment Setting
 $ python procedure.py with 'train_mode="main"'
 ```
 
