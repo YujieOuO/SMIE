@@ -1,0 +1,51 @@
+"Bow" is lowering one's head or body as a gesture of respect, greeting, or acknowledgment.
+"Brushing hair" is using a brush or comb to groom and style one's hair.
+"Brushing teeth" is using a toothbrush and toothpaste to clean one's teeth and maintain oral hygiene.
+"Check time (from watch)" is looking at one's wristwatch or clock to determine the current time.
+"Cheer up" is offering encouragement or support to someone who is feeling down or sad.
+"Clapping" is striking one's hands together repeatedly to make a sound, typically as a form of applause or appreciation.
+"Cross hands in front (say stop)" is placing one's hands in front of one's body with the palms facing outward.
+"Drink water" is consuming water or another liquid to quench thirst or hydrate the body.
+"Drop" is releasing an object or item from one's hand or grasp, typically accidentally or intentionally.
+"Eat meal/snack" is consuming food or a small portion of food as sustenance or for pleasure.
+"Falling" is losing one's balance or support and dropping to the ground or another surface.
+"Giving something to other person" is transferring an object or item to another person, typically as a gift, gesture of kindness.
+"Hand waving" is making a waving motion with one's hand or hands, typically as a greeting, farewell, or to get someone's attention.
+"Handshaking" is grasping another person's hand and shaking it up and down, typically as a form of greeting or agreement.
+"Hopping (one foot jumping)" is jumping on one foot repeatedly, typically as a form of exercise or play.
+"Hugging other person" is wrapping one's arms around another person as a gesture of affection or comfort.
+"Jumping up" is propelling oneself off the ground or another surface with one or both feet.
+"Kicking other person" is striking another person with one's foot, typically as a form of aggression or defense.
+"Kicking something" is striking an object with one's foot, typically as a form of play or to achieve a desired result.
+"Making a phone call/answering phone" is using a phone to communicate with another person, either by initiating or receiving a call.
+"Patting on back of other person" is striking another person's back with one's hand in a gentle or congratulatory manner.
+"Pickup" is lifting or taking hold of an object or item from a surface or another person's grasp.
+"Playing with phone/tablet" is interacting with a mobile phone or tablet device.
+"Pointing finger at the other person" is extending one's finger in the direction of another person.
+"Pointing to something with finger" is extending one's finger in the direction of an object or location.
+"Punching/slapping other person" is striking another person with one's hand, typically as a form of aggression or defense.
+"Pushing other person" is using physical force to move another person away from oneself or a particular location.
+"Put on a hat/cap" is placing a hat or cap on one's head, typically for protection from the elements or as a fashion accessory.
+"Put something inside pocket" is placing an object or item into a pocket or pouch, typically for storage or convenience purposes.
+"Reading" is processing and interpreting written or printed text, typically for education, entertainment, or information purposes.
+"Rub two hands together" is applying friction by rubbing one's hands together, typically to warm them up or to create a soothing sensation.
+"Salute" is making a gesture of respect or acknowledgment by raising one's hand to the forehead or eyebrow level.
+"Sitting down" is lowering one's body onto a seat or other surface for the purpose of resting or engaging in an activity.
+"Standing up" is lifting one's body from a seated or prone position to an upright posture.
+"Take off a hat/cap" is removing a hat or cap from one's head, typically for comfort or convenience purposes.
+"Take off glasses" is removing eyeglasses or sunglasses from one's face or head, typically for comfort or convenience purposes.
+"Take off jacket" is removing a jacket or outer layer of clothing from one's body, typically for comfort or temperature regulation purposes.
+"Take out something from pocket" is removing an object or item from a pocket or pouch, typically for use or inspection purposes.
+"Taking a selfie" is using a camera or phone to take a photograph of oneself, typically for personal or social media purposes.
+"Tear up paper" is separating paper or a similar material into smaller pieces by hand or with a tool, typically for disposal or artistic purposes.
+"Throw" is propelling an object or item through the air with force, typically as a form of play, sport, or aggression.
+"Touch back (backache)" is placing one's hand on the back to alleviate or indicate pain in that area.
+"Touch chest (stomachache/heart pain)" is placing one's hand on the chest to alleviate or indicate pain in that area.
+"Touch head (headache)" is placing one's hand on the head.
+"Touch neck (neckache)" is placing one's hand on the neck.
+"Typing on a keyboard" is inputting text or commands into a computer or device using a keyboard or similar input device.
+"Use a fan (with hand or paper)/feeling warm" is employing a fan or makeshift device to create a flow of air or coolness.
+"Wear jacket" is putting on a jacket or outer layer of clothing, typically for protection or warmth.
+"Wear on glasses" is putting on eyeglasses or sunglasses to aid in vision or eye protection.
+"Wipe face" is using a cloth, tissue, or one's hand to remove sweat or moisture from one's face or to clean it. 
+"Writing" is creating written or printed text using a pen, pencil, or similar tool.
