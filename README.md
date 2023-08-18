@@ -50,12 +50,13 @@ Our SMIE employs two experimental setting.
 To compared with the SOTA method [SynSE](https://github.com/skelemoa/synse-zsl), 
 we first apply their zero-shot class splits for SynSE Experimental Setting. You can download the visual features from their repo, 
 or download from our BaiduYun link: [SOTA visual features](https://pan.baidu.com/s/1Y0nTRZ19UqnXTBJeAFPXeg). Code:smie.
+
 Example for training and testing on NTU-60 split_5 data.
-You can choose different split id of [config.py](https://github.com/YujieOuO/SMIE/blob/main/config.py) (sota compare part).  
 ```bash
 # SynSE Experimental Setting
 $ python procedure.py with 'train_mode="sota"'
 ```
+You can also choose different split id of [config.py](https://github.com/YujieOuO/SMIE/blob/main/config.py) (sota compare part).  
 ### Optimized Experimental Setting
 
 #### Seen and Unseen Classes Splits
