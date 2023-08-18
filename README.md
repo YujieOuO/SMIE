@@ -40,6 +40,12 @@ Using [ChatGPT](https://chat.openai.com/) to expand each action label name into 
 The total label descriptions can be found in [folder](https://github.com/YujieOuO/SMIE/tree/main/descriptions).
 
 ## Seen and Unseen Classes Splits
+For different class splits, you can change the split_id in [split.py](https://github.com/YujieOuO/SMIE/tree/main/split.py).
+Then run the split.py to obtain split data for different seen and unseen classes.
+```bash
+# class-split
+$ python split.py
+```
 
 ## Visual Feature Preparation
 
