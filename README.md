@@ -41,7 +41,7 @@ Put the semantic feautures in fold: ./data/language/
 Using [ChatGPT](https://chat.openai.com/) to expand each action label name into a complete action description.
 The total label descriptions can be found in [folder](https://github.com/YujieOuO/SMIE/tree/main/descriptions).
 
-## Differet Experimental Setting
+## Different Experimental Setting
 Our SMIE employs two experimental setting.
 * SynSE Experimental Setting: two datasets are used, split_5 and split_12 on NTU60, and split_10 and split_24 on NTU120. The visual feature extractor is Shift-GCN. 
 * Optimized Experimental Setting: three datasets are used (NTU-60, NTU-120, PKU-MMD), and each dataset have three random splits. The visual feature extractor is classical ST-GCN to minimize the impact of the feature extractor and focus on the connection model.
