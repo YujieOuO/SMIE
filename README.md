@@ -1,7 +1,7 @@
 # SMIE
 This is an official PyTorch implementation of **"Zero-shot Skeleton-based Action Recognition 
 via Mutual Information Estimation and Maximization" in ACMMM 2023**.
-(Code comming soon)
+(Code is being organized)
 
 [[Paper]](https://arxiv.org/abs/2308.03950)
 # Framework
@@ -48,6 +48,17 @@ $ python split.py
 ```
 
 ## Visual Feature Preparation
+
+## Training & Testing
+Example for training and testing on NTU-60 Split1 data.  
+You can change some settings of [config.py](https://github.com/YujieOuO/SMIE/blob/main/config.py).  
+```bash
+# SynSE Experimental Setting
+$ python procedure.py with 'train_mode="sota"'
+
+# Optimized Experimental Setting
+$ python procedure.py with 'train_mode="main"'
+```
 
 ## Reference
 If you find our paper and repo useful, please cite our paper. Thanks!
