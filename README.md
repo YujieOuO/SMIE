@@ -35,7 +35,7 @@ The code: smie
 * [dataset]_clip_embeddings: based on label names using CLIP.
 * [dataset]_des_embeddings: based on label descriptions using Sentence-Bert.
 
-### Label descriptions
+### Label Descriptions
 Using [ChatGPT](https://chat.openai.com/) to expand each action label name into a complete action description.
 The total label description can be found in [folder](https://github.com/YujieOuO/SMIE/tree/main/descriptions)
 
