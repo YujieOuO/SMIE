@@ -37,7 +37,7 @@ The code: smie
 
 ### Label Descriptions
 Using [ChatGPT](https://chat.openai.com/) to expand each action label name into a complete action description.
-The total label description can be found in [folder](https://github.com/YujieOuO/SMIE/tree/main/descriptions)
+The total label descriptions can be found in [folder](https://github.com/YujieOuO/SMIE/tree/main/descriptions).
 
 ## Seen and Unseen Classes Splits
 
