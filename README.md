@@ -7,6 +7,39 @@ via Mutual Information Estimation and Maximization" in ACMMM 2023**.
 # Framework
 ![SMIE](https://github.com/YujieOuO/SMIE/blob/main/images/pipeline.png)
 
+## Requirements
+![python = 3.7](https://img.shields.io/badge/python-3.7.13-green)
+![torch = 1.11.0+cu113](https://img.shields.io/badge/torch-1.11.0%2Bcu113-yellowgreen)
+
+## Installation
+```bash
+# Install the python libraries
+$ cd SMIE
+$ pip install -r requirements.txt
+```
+
+## Data Preparation
+We apply the same dataset processing as [AimCLR](https://github.com/Levigty/AimCLR).  
+You can also download the skeleton data in BaiduYun link:
+* [NTU-RGB-D 60](https://pan.baidu.com/s/1ukBF5aI8QawRriJbmsrv5Q).
+* [NTU-RGB-D 120](https://pan.baidu.com/s/1AG_516WHitv1LBh1NNrvVg).
+* [PKU-MMD](https://pan.baidu.com/s/168uXCgrKdh7esqatGwfEfg).
+The code: pstl
+
+# Semantic Features
+For the Semantic Features, You can download in BaiduYun link:[Semantic Feature](https://pan.baidu.com/s/1y2r15lxGF3i9aPa1ARfRiQ)
+The code: smie
+* [dataset]_embeddings.npy: The semantic features based on label names using Sentence-Bert.
+* [dataset]_clip_embeddings: The semantic features based on label names using CLIP.
+* [dataset]_des_embeddings: The semantic features based on label descriptions using Sentence-Bert.
+# Label descriptions
+Using [ChatGPT](https://chat.openai.com/) to expand each action label name into a complete action description.
+The total label description can be found in folder: 
+
+## Seen and Unseen Classes Splits
+
+## Visual Feature Preparation
+
 ## Reference
 If you find our paper and repo useful, please cite our paper. Thanks!
 ```
