@@ -32,8 +32,8 @@ For the Semantic Features, You can download in BaiduYun link: [Semantic Feature]
 
 The code: smie
 * [dataset]_embeddings.npy: based on label names using Sentence-Bert.
-* [dataset]_clip_embeddings: based on label names using CLIP.
-* [dataset]_des_embeddings: based on label descriptions using Sentence-Bert.
+* [dataset]_clip_embeddings.npy: based on label names using CLIP.
+* [dataset]_des_embeddings.npy: based on label descriptions using Sentence-Bert.
 
 ### Label Descriptions
 Using [ChatGPT](https://chat.openai.com/) to expand each action label name into a complete action description.
@@ -46,7 +46,6 @@ Then run the split.py to obtain split data for different seen and unseen classes
 # class-split
 $ python split.py
 ```
-
 ## Visual Feature Preparation
 
 ## Training & Testing
