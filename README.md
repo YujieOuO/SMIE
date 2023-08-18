@@ -24,14 +24,17 @@ You can also download the skeleton data in BaiduYun link:
 * [NTU-RGB-D 60](https://pan.baidu.com/s/1ukBF5aI8QawRriJbmsrv5Q).
 * [NTU-RGB-D 120](https://pan.baidu.com/s/1AG_516WHitv1LBh1NNrvVg).
 * [PKU-MMD](https://pan.baidu.com/s/168uXCgrKdh7esqatGwfEfg).
+  
 The code: pstl
 
 ### Semantic Features
 For the Semantic Features, You can download in BaiduYun link:[Semantic Feature](https://pan.baidu.com/s/1y2r15lxGF3i9aPa1ARfRiQ)
+
 The code: smie
-* [dataset]_embeddings.npy: The semantic features based on label names using Sentence-Bert.
-* [dataset]_clip_embeddings: The semantic features based on label names using CLIP.
-* [dataset]_des_embeddings: The semantic features based on label descriptions using Sentence-Bert.
+* [dataset]_embeddings.npy: based on label names using Sentence-Bert.
+* [dataset]_clip_embeddings: based on label names using CLIP.
+* [dataset]_des_embeddings: based on label descriptions using Sentence-Bert.
+* 
 ### Label descriptions
 Using [ChatGPT](https://chat.openai.com/) to expand each action label name into a complete action description.
 The total label description can be found in folder: 
