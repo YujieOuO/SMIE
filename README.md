@@ -66,8 +66,10 @@ Then run the split.py to obtain split data for different seen and unseen classes
 # class-split
 $ python split.py
 ```
+#### Acquire the Visual Features
+TBD
 
-## Training & Testing
+#### Training & Testing
 Example for training and testing on NTU-60 split_1.  
 You can change some settings of [config.py](https://github.com/YujieOuO/SMIE/blob/main/config.py).  
 ```bash
