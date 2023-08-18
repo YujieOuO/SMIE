@@ -29,6 +29,7 @@ The code: pstl
 
 ### Semantic Features
 For the Semantic Features, You can download in BaiduYun link: [Semantic Feature](https://pan.baidu.com/s/1y2r15lxGF3i9aPa1ARfRiQ).
+
 Put the semantic feautures in fold: ./data/language/
 
 The code: smie
