@@ -67,7 +67,8 @@ Then run the split.py to obtain split data for different seen and unseen classes
 $ python split.py
 ```
 #### Acquire the Visual Features
-TBD
+Refer to [Generate_Feature](https://github.com/YujieOuO/SMIE_Generate_Feature).
+(TBD)
 
 #### Training & Testing
 Example for training and testing on NTU-60 split_1.  
