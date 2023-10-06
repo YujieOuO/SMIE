@@ -1,7 +1,6 @@
 # SMIE
 This is an official PyTorch implementation of **"Zero-shot Skeleton-based Action Recognition 
 via Mutual Information Estimation and Maximization" in ACMMM 2023**.
-(Code is being organized)
 
 [[Paper]](https://arxiv.org/abs/2308.03950)
 # Framework
@@ -68,7 +67,6 @@ $ python split.py
 ```
 #### Acquire the Visual Features
 Refer to [Generate_Feature](https://github.com/YujieOuO/SMIE_Generate_Feature).
-(TBD)
 
 #### Training & Testing
 Example for training and testing on NTU-60 split_1.  
