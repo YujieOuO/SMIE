@@ -46,7 +46,7 @@ def my_config():
     test_list = "./data/zeroshot/"+dataset+"/split_"+split+"/unseen_data.npy"
     test_label = "./data/zeroshot/"+dataset+"/split_"+split+"/unseen_label.npy"
     ############################ sota compare ############################
-    sota_split = "24"
+    sota_split = "5"
     unseen_label_5 = [10,11,19,26,56]
     unseen_label_12 = [3,5,9,12,15,40,42,47,51,56,58,59]
     unseen_label_10 = [4,13,37,43,49,65,88,95,99,106]
