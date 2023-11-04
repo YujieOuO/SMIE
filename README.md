@@ -79,10 +79,11 @@ $ python procedure.py with 'train_mode="main"'
 ## Reference
 If you find our paper and repo useful, please cite our paper. Thanks!
 ```
-@article{zhou2023zero,
+@inproceedings{zhou2023zero,
   title={Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization},
   author={Zhou, Yujie and Qiang, Wenwen and Rao, Anyi and Lin, Ning and Su, Bing and Wang, Jiaqi},
-  journal={arXiv preprint arXiv:2308.03950},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={5302--5310},
   year={2023}
 }
 ```
